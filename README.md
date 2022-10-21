@@ -38,7 +38,7 @@ What steps did you take to try and increase model performance?
 ## Summary
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
-### Evaluate Modle 1 - Original Model
+### Evaluate Model 1 - Original Model
 
 <img width="600" alt="1 evaluate module" src="https://user-images.githubusercontent.com/104927745/197099896-3176bee0-3be1-45e5-b5cd-72f1138b4be6.PNG">
 
