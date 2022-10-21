@@ -39,3 +39,13 @@ With your knowledge of machine learning and neural networks, you’ll use the fe
 
 ## Summary
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+
+<img width="600" alt="1 evaluate module" src="https://user-images.githubusercontent.com/104927745/197099896-3176bee0-3be1-45e5-b5cd-72f1138b4be6.PNG">
+
+<img width="600" alt="optimizer 1" src="https://user-images.githubusercontent.com/104927745/197099899-d5847463-f997-47b1-9c84-36214e4fda7e.PNG">
+
+<img width="600" alt="optimizer 2" src="https://user-images.githubusercontent.com/104927745/197099901-7f62df87-0d06-4796-b07b-acd9621c1fc1.PNG">
+
+<img width="600" alt="optimizer 3" src="https://user-images.githubusercontent.com/104927745/197099903-052837f1-779f-44a3-b649-4233185976f4.PNG">
+
+<img width="600" alt="comparing optimization options" src="https://user-images.githubusercontent.com/104927745/197099905-0456e154-dfa8-4819-a510-970bf505a138.PNG">
