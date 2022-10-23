@@ -28,15 +28,11 @@ What variable(s) are neither targets nor features, and should be removed from th
 - EIN and NAME columns were removed - no value to these columns
  
 ### Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-
-Were you able to achieve the target model performance?
-
-What steps did you take to try and increase model performance?
- 
+The original results were an accuracy of 72.31%, first I tried dropping additional columns with unnecesary sata, but with optimization #1 had a drop in loss but a mild gain in accuracy.  For optimization #2, even more columns were dropped, but this lead to accuracy and loss going down.  With optimization #3 I increased both the number of neurons and the hidden layers, and only dropped the EIN column.  This lead to a vast improvement of the model in both loss and accuracy.  I also tried a Random Forest model with 128 estimators and 78 random state, this also achieved the target model performance above 75%.
 
 ## Summary
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+
+<img width="1033" alt="summary section" src="https://user-images.githubusercontent.com/104927745/197404620-9c867e05-44ff-416f-a80f-07dfd2f2d285.PNG">
 
 ### Evaluate Model 1 - Original Model
 
